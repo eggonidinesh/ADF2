@@ -1,0 +1,9 @@
+{
+	"name": "adf-course-dinesh",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d1860420-479d-49fc-a3fe-c56978db6f2c",
+		"tenantId": "68adc809-ee77-4af0-b1db-9627e0e18bfb"
+	}
+}
